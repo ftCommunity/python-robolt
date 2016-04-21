@@ -31,6 +31,10 @@ all users access to the RoboLT.
 
 ## RoboLT USB documentation
 
+*The following details are for documentation only.* The python-robolt
+library is supposed to hide all this from you and give you convenient
+access to the underlying functionality.
+
 The RoboLT uses vendor id 146a and product id 000a.
 
 The RoboLT interface uses two interrupt endpoints to set and get the
