@@ -127,9 +127,9 @@ reply. The lower 8 bits (bits 0-7) of these are returned in bytes 1 -
      321 11111111 22222222 33333333   332211
 ```
 
-A1 represents the analog resistance value on I1. It is 0 of I1
-is open and 1023 if I1 is closed. This can be used for resistive
-sensors like the temperature sensor.
+A1 represents the analog resistance value on I1. It is 0 if I1 is
+closed (0 ohms) and 1023 if I1 is open (infinite ohms). This can be
+used for resistive sensors like the temperature sensor.
 
 A2 is the voltage measured on I3 in 0.03V units. E.g. a value of 300
 is reported if a voltage of 9V is applied to I3. 
