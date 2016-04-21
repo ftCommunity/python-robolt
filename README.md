@@ -1,6 +1,6 @@
 # Python-robolt
 
-A simple python module to access the [Fischertechnik RoboLT interface])http://www.fischertechnik.de/en/desktopdefault.aspx/tabid-21/39_read-3/usetemplate-2_column_pano/).
+A simple python module to access the [Fischertechnik RoboLT interface](http://www.fischertechnik.de/en/desktopdefault.aspx/tabid-21/39_read-3/usetemplate-2_column_pano/).
 
 ## Example usage
 
