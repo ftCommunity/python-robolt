@@ -20,7 +20,7 @@ A simple python module to access the [Fischertechnik RoboLT interface](http://ww
 ```
 
 A complete example for the Fischertechnik TXT controlling a RoboLT can be
-found in the [apps repository](https://github.com/ftCommunity/ftcommunity-apps/tree/master/packages/robolttest).
+found in [my repository](https://github.com/harbaum/cfw-apps/tree/master/packages/robolttest).
 
 ## Non-priviledged access
 
